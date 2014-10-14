@@ -1,0 +1,13 @@
+*.class
+*.dsp
+*.dsw
+*.ncb
+*.plg
+/src/algorithms/Debug
+
+# Package Files #
+*.jar*.war
+*.ear
+/lint.xml
+/bin
+/gen
