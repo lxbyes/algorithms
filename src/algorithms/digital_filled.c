@@ -27,14 +27,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-void digital_filled(int n);
-void digital_filled_2(int n);
-
-int main(int argc, char *args[]) {
-	digital_filled_2(10);
-	return 0;
-}
-
 void digital_filled(int n) {
 	int **a; // 用于将数字存储
 	int i, j, cur;

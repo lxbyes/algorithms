@@ -3,6 +3,7 @@
 *.dsw
 *.ncb
 *.plg
+*.opt
 /src/algorithms/Debug
 
 # Package Files #
